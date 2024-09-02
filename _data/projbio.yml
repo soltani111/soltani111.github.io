@@ -1,0 +1,10 @@
+- name: Novel Geometry for Separating
+  id: Passive micorchannel for particle separation 
+  description: > 
+    This study demonstrated a micorchannel design based on sheats flow and contraction, expantion channel
+    for label-free CTC, RBC and WBC spereration.  
+  date: true
+  link: /mc/separation.html
+  image: /assets/img/posts/projects/bifurcation_2.png
+  tech: 
+    - comsol

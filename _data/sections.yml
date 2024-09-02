@@ -1,0 +1,25 @@
+- name: Computational
+  id: Computational
+  description: There is the Computational projects i've done. PINN,COMSOL,FENIC,GP
+  content: 
+  url: projects.html
+  first: true
+
+- name: Biomedical
+  id: Biomedical
+  description: There is the Biomedical projects i've done
+  content: 
+  url: projects.html
+  first: false
+
+# - name: Courses
+#   id: courses
+#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   content: 
+#   first: false
+  
+# - name: Publications
+#   id: publications
+#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   url: publications.html
+#   first: false
