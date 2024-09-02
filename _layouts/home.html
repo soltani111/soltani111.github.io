@@ -126,12 +126,10 @@ layout: default
                 {% elsif section.name == "Publications" %}
                     <div class="tab-pane overflow-auto" id="{{ section.id }}" role="tabpanel">
                         <p><i>{{ section.description }}</i></p>
-                        <p class="card-text">{% bibliography -f papers %}</p>
                     </div>
                 {% elsif section.name == "Presentations" %}
                     <div class="tab-pane overflow-auto" id="{{ section.id }}" role="tabpanel" aria-labelledby="{{ section.id }}-tab">  
-                        <p><i>{{ section.description }}</i></p>
-                        <p class="card-text">{% bibliography -f presentations %}</p>              
+                        <p><i>{{ section.description }}</i></p>           
                     </div>
                 {% elsif section.name == "Teaching" %}
                     <div class="tab-pane overflow-auto" id="{{ section.id }}" role="tabpanel" aria-labelledby="{{ section.id }}-tab">  
