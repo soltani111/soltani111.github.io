@@ -25,10 +25,10 @@
     - Python
     - FEniCS
 
-- name: Comparative Analysis of 3D Heat Transfer Modeling Using FEniCS and Physics-Informed Neural Networks (PINNs)
+- name: Comparative Analysis of 2D Heat Transfer Modeling Using FEniCS and Physics-Informed Neural Networks (PINNs)
   id: 
   description: >
-    In this study, first the 3D heat transfer problem is solved with FEniCS.
+    In this study, first the 2D heat transfer problem is solved with FEniCS.
     Afterwards, the temperature data on the domain is used as ground truth
     data for a Physics-Informed Neural Network (PINN). A comparison is
     made between the PINN and FEniCS data to evaluate the accuracy of the PINN model.
